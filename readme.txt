@@ -1,4 +1,8 @@
-Replication files for "Data-based Automatic Discretization of Nonparametric Distributions" by Alexis Akira Toda
+Replication files for
+"Data-based Automatic Discretization of Nonparametric Distributions"
+Computational Economics
+https://doi.org/10.1007/s10614-020-10012-6
+by Alexis Akira Toda
 
 Please visit https://alexisakira.github.io/discretization/ for more information on discretization.
 
